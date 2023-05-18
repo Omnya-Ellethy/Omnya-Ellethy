@@ -3,7 +3,7 @@ software engineer
 
 Facts
 ------------
--👍 I'm from Cairo - Egypt 
+-  I'm from Cairo - Egypt 
 - 🏫 Graduated from Faculty of Engineering - Cairo university - Healthcare and Managment Engineering
 - 💻love helpful applications
 - 👩‍🏫coach at logic club
