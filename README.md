@@ -4,8 +4,12 @@
   ![Hello](https://github.com/Omnya-Ellethy/Omnya-Ellethy/assets/62246178/cfa067b8-269e-46a6-bb42-dba77b4b9c29)
 
 
-  software engineer
+  software engineer, embbeded engineer
 </div>
+
+About
+------------
+My name is Omnya Ellethy, coach at logic club, software engineer, loves healthcare & non-healthcare applications that give meaning to users and be helpful to them cause technology meant to provide us easier and meaningful life. love to design anything and everything, care about details.
 
 Facts
 ------------
@@ -13,10 +17,7 @@ Facts
 - 🏫 Graduated from Faculty of Engineering - Cairo university - Healthcare and Managment Engineering
 - 💻love helpful applications
 - 👩‍🏫coach at logic club
-
-About
-------------
-My name is Omnya Ellethy, coach at logic club, software engineer, loves healthcare & non-healthcare applications that give meaning to users and be helpful to them cause technology meant to provide us easier and meaningful life. love to design anything and everything, care about details.
+- 🤔 I’m looking forward to get more experience in software field
 
 GitHub stats
 ------------
