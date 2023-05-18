@@ -1,7 +1,9 @@
 ### Hi there, I'm Omnya Ellethy 👋
-<p
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/5Tz" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-</p>
+
+
+https://github.com/Omnya-Ellethy/Omnya-Ellethy/assets/62246178/31d7c4a4-5126-493a-88d6-b79d65950600
+
+
 software engineer
 
 Facts
