@@ -8,6 +8,10 @@ Facts
 - 💻love helpful applications
 - 👩‍🏫coach at logic club
 
+About
+------------
+my name is Omnya Ellethy, coach at logic club, software engineer, loves healthcare & non-healthcare applications that give meaning to users and be helpful to them cause technology meant to provide us easier and meaningful life. love to design anything and everything, care about details.
+
 GitHub stats
 ------------
 <p align="left">
