@@ -1,7 +1,7 @@
 <div align="center">
-  ### Hi there, I'm Omnya Ellethy 👋
-
-  ![Hello](https://github.com/Omnya-Ellethy/Omnya-Ellethy/assets/62246178/bd61d0e6-3d01-4e09-9667-7e303a0ca5db)
+  
+  ### Hi there, I'm Omnya Ellethy 
+  ![Hello](https://github.com/Omnya-Ellethy/Omnya-Ellethy/assets/62246178/cfa067b8-269e-46a6-bb42-dba77b4b9c29)
 
 
   software engineer
