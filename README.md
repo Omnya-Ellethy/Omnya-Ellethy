@@ -1,9 +1,6 @@
 ### Hi there, I'm Omnya Ellethy 👋
 
-
-https://github.com/Omnya-Ellethy/Omnya-Ellethy/assets/62246178/31d7c4a4-5126-493a-88d6-b79d65950600
-
-
+![5Tz](https://github.com/Omnya-Ellethy/Omnya-Ellethy/assets/62246178/bd61d0e6-3d01-4e09-9667-7e303a0ca5db)
 software engineer
 
 Facts
