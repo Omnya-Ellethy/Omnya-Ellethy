@@ -1,6 +1,13 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omnya-Ellethy)](https://github.com/anuraghazra/github-readme-stats)
-
+GitHub stats
+------------
+<p align="left">
+  <a href="">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Omnya-Ellethy&show_icons=true&theme=onedark&hide_border=true" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omnya-Ellethy&theme=onedark&layout=compact" />
+    <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omnya-Ellethy&theme=onedark&hide_border=true" />
+  </a>
+</p>
 
 <!--
 **Omnya-Ellethy/Omnya-Ellethy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
