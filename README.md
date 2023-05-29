@@ -25,7 +25,7 @@ GitHub stats
   <a href="">
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Omnya-Ellethy&show_icons=true&theme=aura_dark&hide_border=true" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omnya-Ellethy&theme=dracula&layout=compact" />
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omnya-Ellethy&theme=dracula&hide_border=true" />
+    
   </a>
 </p>
 
