@@ -7,6 +7,10 @@
   software engineer, embbeded engineer
 </div>
 
+<div id="badges", align="center">
+<img src="https://komarev.com/ghpvc/?username=Omnya-Ellethy&style=flat-square&color=blue" alt=""/>
+</div>
+
 About
 ------------
 My name is Omnya Ellethy, coach at logic club, software engineer, loves healthcare & non-healthcare applications that give meaning to users and be helpful to them cause technology meant to provide us easier and meaningful life. love to design anything and everything, care about details.
@@ -19,6 +23,21 @@ Facts
 - 👩‍🏫coach at logic club
 - 🤔 I’m looking forward to get more experience in software field
 
+Languages and Tools
+----------------------
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="embeddedc" alt="embeddedc" width="40" height="40"/>&nbsp;
+
+</div>
+
+
 GitHub stats
 ------------
 <p align="left">
@@ -30,16 +49,6 @@ GitHub stats
     
   </a>
 </p>
-
-
------------------------------------------------------
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/OmEly0]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/omnya-ellethy-284407216]: 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/omnya_ellethy?igshid=MmIzYWVlNDQ5Yg==]: 
-
-
-</br>
-[twitter]: https://twitter.com/OmEly0
 <!--
 **Omnya-Ellethy/Omnya-Ellethy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile...
 
