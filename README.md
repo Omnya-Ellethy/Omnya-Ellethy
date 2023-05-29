@@ -7,10 +7,6 @@
   software engineer, embbeded engineer
 </div>
 
-<div id="badges", align="center">
-<img src="https://komarev.com/ghpvc/?username=Omnya-Ellethy&style=flat-square&color=blue" alt=""/>
-</div>
-
 About
 ------------
 My name is Omnya Ellethy, coach at logic club, software engineer, loves healthcare & non-healthcare applications that give meaning to users and be helpful to them cause technology meant to provide us easier and meaningful life. love to design anything and everything, care about details.
@@ -37,15 +33,13 @@ Languages and Tools
 
 </div>
 
-
 GitHub stats
 ------------
 <p align="left">
   <a href="">
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Omnya-Ellethy&show_icons=true&theme=aura_dark&hide_border=true" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omnya-Ellethy&theme=dracula&layout=compact" />
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omnya-Ellethy&theme=dracula&hide_border=true" />
-    
+    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omnya-Ellethy&theme=dracula&hide_border=true" /> 
     
   </a>
 </p>
