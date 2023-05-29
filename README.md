@@ -33,13 +33,13 @@ GitHub stats
 
 
 -----------------------------------------------------
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]: https://twitter.com/OmEly0
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]: www.linkedin.com/in/omnya-ellethy-284407216 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]: https://instagram.com/omnya_ellethy?igshid=MmIzYWVlNDQ5Yg==
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/OmEly0]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/omnya-ellethy-284407216]: 
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/omnya_ellethy?igshid=MmIzYWVlNDQ5Yg==]: 
 
 
 </br>
-
+[twitter]: https://twitter.com/OmEly0
 <!--
 **Omnya-Ellethy/Omnya-Ellethy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile...
 
