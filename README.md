@@ -27,7 +27,8 @@ GitHub stats
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omnya-Ellethy&theme=dracula&layout=compact" />
     <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omnya-Ellethy&theme=dracula&hide_border=true" />
     
-    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Omnya-Ellethy)](https://github.com/Omnya-Ellethy/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omnya-Ellethy&layout=compact)](https://github.com/Omnya-Ellethy)
+
     
   </a>
 </p>
